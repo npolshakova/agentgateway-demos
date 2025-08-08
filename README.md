@@ -1,2 +1,2 @@
 # agentgateway-demos
-Examples with https://github.com/agentgateway/agentgateway and https://github.com/kgateway-dev/kgateway
+Examples with [agentgateway](https://github.com/agentgateway/agentgateway) and [kgateway](https://github.com/kgateway-dev/kgateway)
